@@ -1,0 +1,14 @@
+{
+  "name": "Socket-Chat",
+  "version": "0.0.1",
+  "description": "Mi chat con NodeJS",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongodb": "^2.2.31",
+    "mongoose": "^4.11.9",
+    "socket.io": "^1.7.3"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
